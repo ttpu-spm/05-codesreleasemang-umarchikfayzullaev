@@ -33,6 +33,5 @@ _Here you should put the URL of your final repository after finishing the given 
 1. Introduction to Repository Management: https://github.com/umarchikfayzullaev/skills-introduction-to-repository-management
 2. Release based workflow: https://github.com/umarchikfayzullaev/skills-release-based-workflow2
 3. Useful Tips in Github: https://github.com/umarchikfayzullaev/skills-connect-the-dots
-4. Code with GitHub Codespaces: _REPO LINK 4_
-
+4. Code with GitHub Codespaces: https://github.com/umarchikfayzullaev/skills-code-with-codespaces
 
